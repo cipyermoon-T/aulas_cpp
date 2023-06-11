@@ -1,0 +1,1 @@
+criar funçoes recursivas para fazer fatoriotal e sequencia fibonatch
