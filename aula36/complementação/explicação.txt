@@ -1,1 +1,0 @@
-Nesse exemplo, a função modificarValor recebe um ponteiro para um inteiro. Dentro da função, o valor apontado pelo ponteiro é modificado para 20. Ao chamar a função modificarValor(&num), passamos o endereço de memória da variável num como argumento. Dessa forma, a função pode acessar e modificar o valor de num diretamente, resultando em uma saída de "Valor modificado: 20".
